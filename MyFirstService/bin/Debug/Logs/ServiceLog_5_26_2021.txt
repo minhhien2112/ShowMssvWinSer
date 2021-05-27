@@ -1,0 +1,65 @@
+Service is started at 5/26/2021 9:57:12 PM
+Your Service is stopped at 5/26/2021 9:58:04 PM
+Service is started at 5/26/2021 9:58:05 PM
+Your Service is stopped at 5/26/2021 10:00:52 PM
+Service is started at 5/26/2021 10:01:16 PM
+Your Service is stopped at 5/26/2021 10:12:17 PM
+Service is started at 5/26/2021 10:26:40 PM
+Can't log
+Your Service is stopped at 5/26/2021 10:28:13 PM
+Service is started at 5/26/2021 10:28:14 PM
+Can't log
+Your Service is stopped at 5/26/2021 10:30:52 PM
+Service is started at 5/26/2021 10:31:13 PM
+Can't log
+Your Service is stopped at 5/26/2021 10:32:45 PM
+Service is started at 5/26/2021 10:34:21 PM
+18520051
+False
+Test Show Message
+Can't log
+18520051
+False
+Test Show Message
+Can't log
+Logged
+18520051
+False
+Test Show Message
+18520051
+False
+Test Show Message
+Can't log
+Logged
+18520051
+False
+Test Show Message
+Your Service is stopped at 5/26/2021 10:39:52 PM
+Service is started at 5/26/2021 10:40:31 PM
+18520051
+False
+Test Show Message
+Can't log
+18520051
+False
+Test Show Message
+Can't log
+Logged
+18520051
+False
+Test Show Message
+Your Service is stopped at 5/26/2021 10:41:26 PM
+Service is started at 5/26/2021 10:52:05 PM
+18520051
+False
+Test Show Message
+Can't log
+18520051
+False
+Test Show Message
+Can't log
+Logged
+18520051
+False
+Test Show Message
+Your Service is stopped at 5/26/2021 10:53:30 PM

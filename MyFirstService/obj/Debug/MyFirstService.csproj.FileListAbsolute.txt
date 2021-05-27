@@ -1,0 +1,34 @@
+D:\UIT\HK6\Cơ chế hoạt động của mã độc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+D:\UIT\HK6\Cơ chế hoạt động của mã độc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+D:\UIT\HK6\Cơ chế hoạt động của mã độc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+D:\UIT\HK6\Cơ chế hoạt động của mã độc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+D:\UIT\HK6\Cơ chế hoạt động của mã độc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+D:\UIT\HK6\Cơ chế hoạt động của mã độc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+D:\UIT\HK6\Cơ chế hoạt động của mã độc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+D:\UIT\HK6\Cơ chế hoạt động của mã độc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csprojAssemblyReference.cache
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+D:\UIT\HK6\Co che hoat dong cua ma doc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB1\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csprojAssemblyReference.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
